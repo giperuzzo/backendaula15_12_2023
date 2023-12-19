@@ -1,0 +1,7 @@
+-1 criar uma estrutura json server  npm i json-server ou npx i json-server
+se nao gerar node modules ver no stackoverflow npm para gerar node modules. Isso acontece pq no windows precisa mexer nas variaveis de ambiente para o node  modules ficar visivel
+
+para executar o json
+
+npm json-server alunos.json ou
+npx json-server alunos.json
