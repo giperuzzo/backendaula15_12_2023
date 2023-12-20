@@ -19,142 +19,34 @@
       "nota2": 6
     },
     {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 4
+      "nome": "ccc",
+      "nota1": 8,
+      "nota2": 9,
+      "id": 27
     },
     {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 5
+      "nome": "kkk",
+      "nota1": 8,
+      "nota2": 8,
+      "id": 28
     },
     {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 6
+      "nome": "Yann",
+      "nota1": 10,
+      "nota2": 9,
+      "id": 29
     },
     {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 7
+      "nome": "Luiza",
+      "nota1": 10,
+      "nota2": 10,
+      "id": 30
     },
     {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 8
-    },
-    {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 9
-    },
-    {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 10
-    },
-    {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 11
-    },
-    {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 12
-    },
-    {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 13
-    },
-    {
-      "nome": "",
-      "nota1": "",
-      "nota2": "",
-      "id": 14
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 15
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 16
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 17
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 18
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 19
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 20
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 21
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 22
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 23
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 24
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 25
-    },
-    {
-      "nome": null,
-      "nota1": null,
-      "nota2": null,
-      "id": 26
+      "nome": "Ana Laura",
+      "nota1": 10,
+      "nota2": 10,
+      "id": 31
     }
   ]
 }
